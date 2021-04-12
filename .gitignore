@@ -1,0 +1,16 @@
+result[1234567890]*/
+data/
+*.bak
+combined_*.c
+*.ci
+TransactionsData.db
+*.idx
+*.c.pickle
+*.sdf
+custom_body_variables.txt
+logfile.log
+mdrv.log
+mdrv_cmd.txt
+options.txt
+output.txt
+ThumbnailsCache.tmp
